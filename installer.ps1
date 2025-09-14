@@ -199,7 +199,7 @@ $btnHelp = New-Object System.Windows.Forms.Button
 $btnHelp.Text = "Comment faire ?"
 $btnHelp.Location = New-Object System.Drawing.Point(10,160)
 $btnHelp.Size = New-Object System.Drawing.Size(120,30)
-$btnHelp.Add_Click({ Start-Process "https://developers.notion.com/docs/getting-started" })
+$btnHelp.Add_Click({ Start-Process "https://github.com/kezy-code/ResumeNotion/blob/main/Tuto/Tutoriel_R%C3%A9cup%C3%A9rer_votre_Integration_Token_et_Data_ID.md" })
 $formNotion.Controls.Add($btnHelp)
 
 $btnSave = New-Object System.Windows.Forms.Button
@@ -291,3 +291,4 @@ if (Test-Path $regScript) {
 } else {
     [System.Windows.Forms.MessageBox]::Show("Registry_installer.py introuvable.","Erreur","OK","Error") | Out-Null
 }
+
