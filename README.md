@@ -1,4 +1,7 @@
 # INSTALLATION
+>[![Download](https://img.shields.io/badge/Download-ResumeNotion.zip-blue?style=for-the-badge&logo=github)](https://github.com/kezy-code/ResumeNotion/releases/latest/download/ResumeNotion.zip)
+
+
 >**Info : Pour avoir votre Notion Token et Database ID : [Voir la documentation complète](Tuto/Tutoriel_Récupérer_votre_Integration_Token_et_Data_ID.md)**
 
 > **Prérequis :** 
