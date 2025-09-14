@@ -1,5 +1,5 @@
 # INSTALLATION
-**Pouravoir votre Notion Toker et Database ID : [Voir la documentation complète](Tuto/Tutoriel_Récupérer_votre_Integration_Token_et_Data_ID.md)**
+**Pour avoir votre Notion Toker et Database ID : [Voir la documentation complète](Tuto/Tutoriel_Récupérer_votre_Integration_Token_et_Data_ID.md)**
 > **Prérequis :** 
 >
 >- **installation de Ollama (gpt-oss:20b), lancez le :** [Download Ollama on Windows](https://ollama.com/download)
