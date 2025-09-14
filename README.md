@@ -24,7 +24,7 @@
 ---
 - Ajoutez l’action Open, puis ajoutez le lien
     
-    > [https://karletudiant.github.io/ResumeNotionSite/](https://karletudiant.github.io/ResumeNotionSite/)
+    > [https://kezy-code.github.io/ResumeNotionSite/](https://kezy-code.github.io/ResumeNotionSite/)
     > 
 
 ![image.png](image/image%204.png)
